@@ -8,9 +8,15 @@
   <b>看什么呢？只是个普通的爱好者哦</b>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-生きている-8ecae6?style=flat-square&logo=statuspal&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/推し-迷迭香-ee6055?style=flat-square"/>
+</p>
 
-## 关于我
+<p align="center">── ✦ ──</p>
+
+## 【关于我】
 
 - 文科生，代码只是爱好——质量不一定好，但写得开心
 - 明日方舟玩家，迷迭香单推人
@@ -18,9 +24,9 @@
 - Linux 主力环境，Arch Linux 用户。经常折腾 Electron 应用的调试和打包
 - AUR 维护者，为 Arch Linux 管理软件包
 
----
+<p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## GitHub 统计
+## 【GitHub 統計】
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aklnaaw&show_icons=true&border_radius=12&height=169&theme=graywhite&hide_title=true" />
@@ -36,15 +42,15 @@
   <img src="https://raw.githubusercontent.com/aklnaaw/aklnaaw/main/snake.svg" />
 </p>
 
----
+<p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 技术栈
+## 【技術スタック】
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<p><b>语言</b></p>
+<p><b>言語</b></p>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff"/>
 
@@ -55,7 +61,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<p><b>系统 · 工具</b></p>
+<p><b>システム · ツール</b></p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>&nbsp;<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff"/>
 
@@ -63,7 +69,7 @@
 
 <hr width="60%"/>
 
-<p><b>打包 · 发布</b></p>
+<p><b>パッケージ · リリース</b></p>
 
 <img src="https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/AppImage-000000?style=for-the-badge&logo=appimage&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/deb-D7062D?style=for-the-badge&logo=debian&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/自动化-2ECC71?style=for-the-badge&logo=robotframework&logoColor=fff"/>
 
@@ -71,9 +77,9 @@
 </tr>
 </table>
 
----
+<p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 项目
+## 【プロジェクト】
 
 ### [PRTS — 普瑞赛斯桌面伴侣](https://github.com/aklnaaw/claude-code-but-priestess)
 
@@ -87,20 +93,20 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 - 桌面宠物模式 —— 闲置后普瑞赛斯自动浮现
 - Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
 
-> SVAH-X/claude-code-but-priestess 的 Linux 分支。同时向上游贡献代码。
+> SVAH-X/claude-code-but-priestess の Linux フォーク。本家にも貢献しています。
 
----
+<p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 近期在做
+## 【現在】
 
 - PRTS Linux 适配的持续改进
 - AUR 包维护
 - AI 工作流的实践与实验
 - 系统底层的探索
 
----
+<p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 联系方式
+## 【連絡】
 
 <p align="center">
 
@@ -111,7 +117,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 </p>
 
----
+<p align="center">── ✦ ──</p>
 
 <p align="center">
 
