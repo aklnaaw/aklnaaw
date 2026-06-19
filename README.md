@@ -12,9 +12,11 @@
   <img src="https://img.shields.io/badge/Status-alive-8ecae6?style=flat-square&logo=statuspal&logoColor=fff"/>
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff"/>
   <img src="https://img.shields.io/badge/单推-迷迭香-ee6055?style=flat-square"/>
-  <br/>
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/1489159678649696266">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1489159678649696266?theme=light&bg=00000000&borderRadius=6" height="28"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/1489159678649696266?theme=light&bg=00000000&borderRadius=6" width="320"/>
   </a>
 </p>
 
