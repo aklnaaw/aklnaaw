@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/单推-迷迭香-ee6055?style=flat-square"/>
   <br/>
   <a href="https://discord.com/users/1489159678649696266">
-    <img src="https://lanyard.cnrad.dev/api/1489159678649696266?borderRadius=4&bg=00000000&idleMessage=多分放置中…" alt="Discord" height="28"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/1489159678649696266?theme=light&bg=00000000&borderRadius=6" height="28"/>
   </a>
 </p>
 
