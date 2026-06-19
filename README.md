@@ -133,7 +133,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「樱花花瓣飘落的速度，是每秒五厘米。」" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「桜の花びらが落ちるスピード、秒速５センチメートル」;「樱花飘落的速度，是每秒五厘米。」" />
 
 </p>
 
