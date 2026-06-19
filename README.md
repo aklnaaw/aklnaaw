@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Status-alive-8ecae6?style=flat-square&logo=statuspal&logoColor=fff"/>
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff"/>
   <img src="https://img.shields.io/badge/单推-迷迭香-ee6055?style=flat-square"/>
+  <br/>
+  <a href="https://discord.com/users/1489159678649696266">
+    <img src="https://lanyard.cnrad.dev/api/1489159678649696266?borderRadius=4&bg=00000000&idleMessage=多分放置中…" alt="Discord" height="28"/>
+  </a>
 </p>
 
 <p align="center">── ✦ ──</p>
