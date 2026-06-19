@@ -1,108 +1,120 @@
-# AKLNAAW 🇯🇵
+<p align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=AKLNAAW&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=在日留学生 · Arknights · AI & System&descSize=18&descAlignY=58" />
 
-[![GitHub followers](https://img.shields.io/github/followers/aklnaaw?style=flat-square&logo=github&color=333)](https://github.com/aklnaaw)
-
-</div>
-
-<details open>
-<summary><b>🇨🇳 中文</b></summary>
-
-在日留学生，明日方舟玩家，兴趣是研究 AI 和系统底层。
-
-> 记录自己完蛋的全过程。
+</p>
 
 ---
 
-### 🛠️ 技术栈
+## 👋 关于我 | About Me | 私について
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://archlinux.org)
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://archlinux.org)
-[![AUR](https://img.shields.io/badge/AUR-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://aur.archlinux.org/packages/priestess-arknights)
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)](https://www.electronjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org)
-[![Fish](https://img.shields.io/badge/Fish-3B6A87?style=flat-square&logo=fish-shell&logoColor=fff)](https://fishshell.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)](https://github.com/features/actions)
+<p align="left">
+
+🇯🇵 日本の留学生 — 今は日本で勉強しながら生活しています。
+
+🎮 **アークナイツ** プレイヤー。普瑞赛スが好き。
+
+🧠 **AI** と **低レイヤシステム** に興味あり — 単に API を呼ぶだけじゃなくて、その裏側で何が動いているのかを知りたい。
+
+💻 Linux をメイン環境として使っていて、Arch Linux が好み。Electron アプリのデバッグやパッケージングもよくやる。
+
+📦 AUR メンテナー — Arch Linux 向けにパッケージを管理している。
+
+</p>
 
 ---
 
-### 🚀 项目
+## 📊 GitHub Stats | 统计
 
-#### [PRTS — 普瑞赛斯桌面伴侣](https://github.com/aklnaaw/claude-code-but-priestess)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aklnaaw&show_icons=true&border_radius=12&height=169&theme=graywhite&hide_title=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklnaaw&layout=compact&border_radius=12&height=169&theme=graywhite" />
+</p>
 
-Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aklnaaw&theme=github-compact" />
+</p>
+
+---
+
+## 🛠️ 技術スタック | Tech Stack
+
+#### 🧩 言語 | Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=fff" alt="Shell"/>
+</p>
+
+#### ⚙️ システム & ツール | System & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff" alt="Fish"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff" alt="Electron"/>
+</p>
+
+#### 🚀 パッケージング & CI/CD | Packaging & CI/CD
+<p align="left">
+  <img src="https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff" alt="AUR"/>
+  <img src="https://img.shields.io/badge/AppImage-000000?style=for-the-badge&logo=appimage&logoColor=fff" alt="AppImage"/>
+  <img src="https://img.shields.io/badge/deb-D7062D?style=for-the-badge&logo=debian&logoColor=fff" alt="deb"/>
+  <img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge&logo=robotframework&logoColor=fff" alt="Automation"/>
+</p>
+
+---
+
+## 🚀 プロジェクト | Projects
+
+### [PRTS — 普瑞赛斯デスクトップコンパニオン](https://github.com/aklnaaw/claude-code-but-priestess)
+
+Linux 向けシステムトレイ常駐型デスクトップペット。明日方舟キャラクター「普瑞赛斯」がデスクトップに常駐し、チャットができる。
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/aklnaaw/claude-code-but-priestess?style=flat-square&logo=github)](https://github.com/aklnaaw/claude-code-but-priestess)
 [![AUR](https://img.shields.io/aur/version/priestess-arknights?style=flat-square&logo=archlinux&label=AUR&color=1793D1)](https://aur.archlinux.org/packages/priestess-arknights)
 
-- Wayland + X11 双协议适配
-- 系统托盘常驻聊天
-- 桌面宠物模式
-- Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
+- **Wayland + X11** 両方に対応
+- **システムトレイ常駐**チャット機能
+- **デスクトップペットモード** — 放置中にかわいい普瑞赛斯が現れる
+- Arch Linux **AUR**: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
 
-</details>
-
-<details>
-<summary><b>🇯🇵 日本語</b></summary>
-
-日本の留学生。アークナイツが好き。AI と低レイヤシステムに興味あり。
-
-> 記録する。終わるまでの全部を。
+> SVAH-X/claude-code-but-priestess の Linux フォーク。本家への貢献もしています。
 
 ---
 
-### 🛠️ 技術スタック
+## 🌱 やっていること | Currently
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://archlinux.org)
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://archlinux.org)
-[![AUR](https://img.shields.io/badge/AUR-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://aur.archlinux.org/packages/priestess-arknights)
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)](https://www.electronjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org)
-[![Fish](https://img.shields.io/badge/Fish-3B6A87?style=flat-square&logo=fish-shell&logoColor=fff)](https://fishshell.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)](https://github.com/features/actions)
+- 🛠️ PRTS の Linux 対応の継続改善
+- 📦 AUR パッケージのメンテナンス
+- 🧠 AI ワークフローの実践と実験
+- 📖 低レイヤシステムの探求
 
 ---
 
-### 🚀 プロジェクト
+## 📫 リンク | Links
 
-#### [PRTS — 普瑞赛斯デスクトップコンパニオン](https://github.com/aklnaaw/claude-code-but-priestess)
-
-Linux 向けシステムトレイ常駐型デスクトップペット（明日方舟「普瑞赛斯」）
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/aklnaaw/claude-code-but-priestess?style=flat-square&logo=github)](https://github.com/aklnaaw/claude-code-but-priestess)
-[![AUR](https://img.shields.io/aur/version/priestess-arknights?style=flat-square&logo=archlinux&label=AUR&color=1793D1)](https://aur.archlinux.org/packages/priestess-arknights)
-
-- Wayland + X11 対応
-- システムトレイ常駐チャット
-- デスクトップペットモード
-- Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aklnaaw&show_icons=true&theme=graywhite&hide_title=true&locale=ja&hide_border=true)](https://github.com/aklnaaw)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklnaaw&layout=compact&theme=graywhite&hide_border=true)](https://github.com/aklnaaw)
-
-</div>
-
----
-
-## 🔗 リンク / 链接
-
-<div align="center">
+<p align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aklnaaw-181717?style=for-the-badge&logo=github)](https://github.com/aklnaaw)
 [![Bilibili](https://img.shields.io/badge/B站-阿卡莲娜--official-FB7299?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/1179951835)
+[![AUR](https://img.shields.io/badge/AUR-priestess--arknights-1793D1?style=for-the-badge&logo=archlinux)](https://aur.archlinux.org/packages/priestess-arknights)
 
-</div>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「記録する。終わるまでの全部を。」;「记录自己完蛋的全过程。」" />
+
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:aklnaaw?theme=booru-jaypee" alt="visitor count" />
+</p>
