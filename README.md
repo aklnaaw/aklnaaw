@@ -6,14 +6,16 @@
 
 </div>
 
-日本の留学生。アークナイツが好き。AI と低レイヤに興味あり。
+<details open>
+<summary><b>🇨🇳 中文</b></summary>
+
 在日留学生，明日方舟玩家，兴趣是研究 AI 和系统底层。
 
-> 記録する。終わるまでの全部を。
+> 记录自己完蛋的全过程。
 
 ---
 
-## 🛠️ 技術スタック / 技术栈
+### 🛠️ 技术栈
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://archlinux.org)
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://archlinux.org)
@@ -27,6 +29,63 @@
 
 ---
 
+### 🚀 项目
+
+#### [PRTS — 普瑞赛斯桌面伴侣](https://github.com/aklnaaw/claude-code-but-priestess)
+
+Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/aklnaaw/claude-code-but-priestess?style=flat-square&logo=github)](https://github.com/aklnaaw/claude-code-but-priestess)
+[![AUR](https://img.shields.io/aur/version/priestess-arknights?style=flat-square&logo=archlinux&label=AUR&color=1793D1)](https://aur.archlinux.org/packages/priestess-arknights)
+
+- Wayland + X11 双协议适配
+- 系统托盘常驻聊天
+- 桌面宠物模式
+- Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
+
+</details>
+
+<details>
+<summary><b>🇯🇵 日本語</b></summary>
+
+日本の留学生。アークナイツが好き。AI と低レイヤシステムに興味あり。
+
+> 記録する。終わるまでの全部を。
+
+---
+
+### 🛠️ 技術スタック
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://archlinux.org)
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://archlinux.org)
+[![AUR](https://img.shields.io/badge/AUR-1793D1?style=flat-square&logo=archlinux&logoColor=fff)](https://aur.archlinux.org/packages/priestess-arknights)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)](https://www.electronjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org)
+[![Fish](https://img.shields.io/badge/Fish-3B6A87?style=flat-square&logo=fish-shell&logoColor=fff)](https://fishshell.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)](https://github.com/features/actions)
+
+---
+
+### 🚀 プロジェクト
+
+#### [PRTS — 普瑞赛斯デスクトップコンパニオン](https://github.com/aklnaaw/claude-code-but-priestess)
+
+Linux 向けシステムトレイ常駐型デスクトップペット（明日方舟「普瑞赛斯」）
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/aklnaaw/claude-code-but-priestess?style=flat-square&logo=github)](https://github.com/aklnaaw/claude-code-but-priestess)
+[![AUR](https://img.shields.io/aur/version/priestess-arknights?style=flat-square&logo=archlinux&label=AUR&color=1793D1)](https://aur.archlinux.org/packages/priestess-arknights)
+
+- Wayland + X11 対応
+- システムトレイ常駐チャット
+- デスクトップペットモード
+- Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
+
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -36,23 +95,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklnaaw&layout=compact&theme=graywhite&hide_border=true)](https://github.com/aklnaaw)
 
 </div>
-
----
-
-## 🚀 プロジェクト / 项目
-
-### [PRTS — 普瑞赛斯桌面伴侣](https://github.com/aklnaaw/claude-code-but-priestess)
-
-Linux 向けシステムトレイ常駐型デスクトップペット（明日方舟「普瑞赛斯」）
-Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/aklnaaw/claude-code-but-priestess?style=flat-square&logo=github)](https://github.com/aklnaaw/claude-code-but-priestess)
-[![AUR](https://img.shields.io/aur/version/priestess-arknights?style=flat-square&logo=archlinux&label=AUR&color=1793D1)](https://aur.archlinux.org/packages/priestess-arknights)
-
-- Wayland + X11 対応
-- システムトレイ常駐、チャット機能
-- デスクトップペットモード
-- Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
 
 ---
 
