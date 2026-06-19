@@ -10,17 +10,17 @@
 
 ---
 
-## 👋 关于我
+## 关于我
 
-- 📚 文科生，代码只是爱好——质量不一定好，但写得开心
-- 🎮 明日方舟玩家，迷迭香单推人
-- 🧠 兴趣是研究 AI 和系统底层——不只满足于调用 API，想知道背后到底发生了什么
-- 💻 Linux 主力环境，Arch Linux 用户。经常折腾 Electron 应用的调试和打包
-- 📦 AUR 维护者，为 Arch Linux 管理软件包
+- 文科生，代码只是爱好——质量不一定好，但写得开心
+- 明日方舟玩家，迷迭香单推人
+- 兴趣是研究 AI 和系统底层——不只满足于调用 API，想知道背后到底发生了什么
+- Linux 主力环境，Arch Linux 用户。经常折腾 Electron 应用的调试和打包
+- AUR 维护者，为 Arch Linux 管理软件包
 
 ---
 
-## 📊 GitHub 统计
+## GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aklnaaw&show_icons=true&border_radius=12&height=169&theme=graywhite&hide_title=true" />
@@ -32,9 +32,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aklnaaw&theme=github-compact" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aklnaaw/aklnaaw/main/snake.svg" />
+</p>
+
 ---
 
-## 🛠️ 技术栈
+## 技术栈
 
 #### 语言
 <p align="left">
@@ -67,7 +71,7 @@
 
 ---
 
-## 🚀 项目
+## 项目
 
 ### [PRTS — 普瑞赛斯桌面伴侣](https://github.com/aklnaaw/claude-code-but-priestess)
 
@@ -78,23 +82,23 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 - Wayland + X11 双协议适配
 - 系统托盘常驻，点击弹出聊天窗口
-- 桌面宠物模式——闲置后普瑞赛斯自动浮现
+- 桌面宠物模式 —— 闲置后普瑞赛斯自动浮现
 - Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
 
 > SVAH-X/claude-code-but-priestess 的 Linux 分支。同时向上游贡献代码。
 
 ---
 
-## 🌱 近期在做
+## 近期在做
 
-- 🛠️ PRTS Linux 适配的持续改进
-- 📦 AUR 包维护
-- 🧠 AI 工作流的实践与实验
-- 📖 系统底层的探索
+- PRTS Linux 适配的持续改进
+- AUR 包维护
+- AI 工作流的实践与实验
+- 系统底层的探索
 
 ---
 
-## 📫 联系方式
+## 联系方式
 
 <p align="center">
 
@@ -109,10 +113,12 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「记录自己完蛋的全过程。」" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「记录自己完蛋的全过程。」;「代码只是爱好，写得开心就好。」;「明日方舟，迷迭香单推人。」" />
 
 </p>
 
 <p align="center">
   <img src="https://count.getloli.com/@:aklnaaw?theme=booru-jaypee" alt="visitor count" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
