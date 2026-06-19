@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aklnaaw/aklnaaw/main/header.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aklnaaw/aklnaaw/main/header.png" width="100%" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:1a1a2e&height=70&section=header&text=&fontSize=0" width="100%" />
 
 </p>
 
@@ -94,6 +94,12 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 - Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
 
 > SVAH-X/claude-code-but-priestess 的 Linux 分支。同时向上游贡献代码。
+
+<p align="center">
+  <a href="https://github.com/aklnaaw/claude-code-but-priestess">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=aklnaaw&repo=claude-code-but-priestess&theme=graywhite&border_radius=12" />
+  </a>
+</p>
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
