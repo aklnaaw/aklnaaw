@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-生きている-8ecae6?style=flat-square&logo=statuspal&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Status-alive-8ecae6?style=flat-square&logo=statuspal&logoColor=fff"/>
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/推し-迷迭香-ee6055?style=flat-square"/>
+  <img src="https://img.shields.io/badge/单推-迷迭香-ee6055?style=flat-square"/>
 </p>
 
 <p align="center">── ✦ ──</p>
@@ -26,7 +26,7 @@
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 【GitHub 統計】
+## 【GitHub 统计】
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aklnaaw&show_icons=true&border_radius=12&height=169&theme=graywhite&hide_title=true" />
@@ -44,13 +44,13 @@
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 【技術スタック】
+## 【技术栈】
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<p><b>言語</b></p>
+<p><b>语言</b></p>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff"/>
 
@@ -61,7 +61,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<p><b>システム · ツール</b></p>
+<p><b>系统 · 工具</b></p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>&nbsp;<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff"/>
 
@@ -69,7 +69,7 @@
 
 <hr width="60%"/>
 
-<p><b>パッケージ · リリース</b></p>
+<p><b>打包 · 发布</b></p>
 
 <img src="https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/AppImage-000000?style=for-the-badge&logo=appimage&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/deb-D7062D?style=for-the-badge&logo=debian&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/自动化-2ECC71?style=for-the-badge&logo=robotframework&logoColor=fff"/>
 
@@ -79,7 +79,7 @@
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 【プロジェクト】
+## 【项目】
 
 ### [PRTS — 普瑞赛斯桌面伴侣](https://github.com/aklnaaw/claude-code-but-priestess)
 
@@ -93,11 +93,11 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 - 桌面宠物模式 —— 闲置后普瑞赛斯自动浮现
 - Arch Linux AUR: [`priestess-arknights`](https://aur.archlinux.org/packages/priestess-arknights)
 
-> SVAH-X/claude-code-but-priestess の Linux フォーク。本家にも貢献しています。
+> SVAH-X/claude-code-but-priestess 的 Linux 分支。同时向上游贡献代码。
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 【現在】
+## 【近期在做】
 
 - PRTS Linux 适配的持续改进
 - AUR 包维护
@@ -106,7 +106,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
-## 【連絡】
+## 【联系方式】
 
 <p align="center">
 
@@ -121,7 +121,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「桜の花びらの落ちるスピード、秒速５センチメートル」;「樱花花瓣飘落的速度，是每秒五厘米。」" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「樱花花瓣飘落的速度，是每秒五厘米。」;「看什么呢？只是个普通的爱好者哦」" />
 
 </p>
 
