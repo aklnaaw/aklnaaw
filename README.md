@@ -1,7 +1,11 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=AKLNAAW&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=在日留学生 · Arknights · AI & System&descSize=18&descAlignY=58" />
+<img src="https://raw.githubusercontent.com/aklnaaw/aklnaaw/main/header.jpeg" width="100%" />
 
+</p>
+
+<p align="center">
+  <b>在日留学生 · Arknights · AI & System</b>
 </p>
 
 ---
