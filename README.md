@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Arknights · AI · System</b>
+  <b>看什么呢？只是个普通的爱好者哦</b>
 </p>
 
 ---
