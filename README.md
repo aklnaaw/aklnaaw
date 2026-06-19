@@ -40,34 +40,39 @@
 
 ## 技术栈
 
-#### 语言
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff" alt="Rust"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=fff" alt="Shell"/>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-#### 系统与工具
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff" alt="Arch Linux"/>
-  <img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff" alt="Fish"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff" alt="Electron"/>
-</p>
+**语言**
 
-#### 打包与 CI/CD
-<p align="left">
-  <img src="https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff" alt="AUR"/>
-  <img src="https://img.shields.io/badge/AppImage-000000?style=for-the-badge&logo=appimage&logoColor=fff" alt="AppImage"/>
-  <img src="https://img.shields.io/badge/deb-D7062D?style=for-the-badge&logo=debian&logoColor=fff" alt="deb"/>
-  <img src="https://img.shields.io/badge/自动化-2ECC71?style=for-the-badge&logo=robotframework&logoColor=fff" alt="自动化"/>
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/><br/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js"/><br/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff" alt="Rust"/><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/><br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML"/><br/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS"/><br/>
+<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=fff" alt="Shell"/>
+
+</td>
+<td width="50%" valign="top">
+
+**系统与工具**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux"/><br/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff" alt="Arch Linux"/><br/>
+<img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff" alt="Fish"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/><br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" alt="GitHub Actions"/><br/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff" alt="Electron"/><br/>
+<img src="https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff" alt="AUR"/><br/>
+<img src="https://img.shields.io/badge/AppImage-000000?style=for-the-badge&logo=appimage&logoColor=fff" alt="AppImage"/><br/>
+<img src="https://img.shields.io/badge/deb-D7062D?style=for-the-badge&logo=debian&logoColor=fff" alt="deb"/><br/>
+<img src="https://img.shields.io/badge/自动化-2ECC71?style=for-the-badge&logo=robotframework&logoColor=fff" alt="自动化"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
