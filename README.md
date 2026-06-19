@@ -101,6 +101,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 [![GitHub](https://img.shields.io/badge/GitHub-aklnaaw-181717?style=for-the-badge&logo=github)](https://github.com/aklnaaw)
 [![Bilibili](https://img.shields.io/badge/B站-阿卡莲娜--official-FB7299?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/1179951835)
 [![AUR](https://img.shields.io/badge/AUR-priestess--arknights-1793D1?style=for-the-badge&logo=archlinux)](https://aur.archlinux.org/packages/priestess-arknights)
+[![Email](https://img.shields.io/badge/Email-aklnaaww@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:aklnaaww@gmail.com)
 
 </p>
 
