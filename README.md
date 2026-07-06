@@ -112,6 +112,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 - PRTS Linux 适配的持续改进
 - AUR 包维护
+- 在学习和使用 Fedora
 
 <p align="center">──── ✧ ⬡ ✧ ────</p>
 
