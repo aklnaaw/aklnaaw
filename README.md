@@ -34,9 +34,9 @@
 ## 【GitHub 统计】
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aklnaaw&show_icons=true&border_radius=12&height=169&theme=graywhite&hide_title=true" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=aklnaaw&show_icons=true&border_radius=12&height=169&theme=graywhite&hide_title=true" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklnaaw&layout=compact&border_radius=12&height=169&theme=graywhite" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=aklnaaw&layout=compact&border_radius=12&height=169&theme=graywhite" />
 </p>
 
 <p align="center">
@@ -130,12 +130,12 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「桜の花びらが落ちるスピード、秒速５センチメートル」;「樱花飘落的速度，是每秒五厘米。」" />
+<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=18&color=555555&center=true&vCenter=true&width=600&lines=「桜の花びらが落ちるスピード、秒速５センチメートル」;「樱花飘落的速度，是每秒五厘米。」" />
 
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:aklnaaw?theme=booru-jaypee" alt="visitor count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aklnaaw.aklnaaw" alt="visitor count" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
