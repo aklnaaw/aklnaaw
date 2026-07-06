@@ -136,7 +136,7 @@ Linux 系统托盘桌宠，明日方舟角色「普瑞赛斯」常驻桌面，�
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aklnaaw.aklnaaw" alt="visitor count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aklnaaw.aklnaaw&left_text=%F0%9F%91%81%E8%AE%BF%E5%AE%A2&right_color=8ecae6" alt="visitor count" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
