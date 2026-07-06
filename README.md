@@ -68,7 +68,7 @@
 
 <p><b>系统 · 工具</b></p>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>&nbsp;<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>&nbsp;<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Fish-3B6A87?style=for-the-badge&logo=fish-shell&logoColor=fff"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff"/>&nbsp;<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff"/>
 
